@@ -1,6 +1,9 @@
 
 # Map Quartier Villeurbanne
 
+## Extraction carte depuis openstreet avec Blosm.
+https://prochitecture.gumroad.com/l/blender-osm
+
 ## Utilisation de Blender
 
 ### Étapes
